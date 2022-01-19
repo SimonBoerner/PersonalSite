@@ -8,6 +8,9 @@ You can see it as a rope in rock climbing. It can bring you back to a state you 
 
 You can work on multiple **branches** (Entwicklungszweige). This will not touch the main branch, Later on, if you are happy with your yode, you can merge it in the main branch. Imagine it as a tree. Or parallel lines.
 
+## GIT Flow
+
+
 ## States 
 
 ![[States of GIT 1.png]]
@@ -25,3 +28,5 @@ Differences:
 # GITHUB
 
 GITHUB is the place where you host the gits and make them public. So you can work on it as a team.
+
+
