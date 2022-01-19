@@ -1,3 +1,12 @@
-# This is Simons Homepage.
+# THIS IS SIMONS HOMEPAGE
 
-[Here](about) you can find more informations about me.
+<br>
+
+Here I share my thoughts about the things I learn. 
+
+<br>
+
+
+If you want to know more about me, klick [here](obsidian://open?vault=personal-site-md&file=about)
+
+If you wanto to read my blog, klick [here](obsidian://open?vault=personal-site-md&file=blog)
